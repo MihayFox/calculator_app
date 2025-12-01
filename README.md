@@ -19,7 +19,7 @@ A simple, responsive web-based calculator built with vanilla HTML, CSS, and Java
 
 ## Live Demo
 
-**[Try the Calculator](https://vercel.com/mihnea-rafael-dunarintus-projects/calculator-app)** - Deployed on Vercel
+**[Try the Calculator](https://calculator-app-nine-sigma.vercel.app/)** - Deployed on Vercel
 
 Or open `index.html` locally in any modern web browser.
 
