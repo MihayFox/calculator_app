@@ -17,9 +17,11 @@ A simple, responsive web-based calculator built with vanilla HTML, CSS, and Java
 - **Responsive Design**: Clean, centered layout that works on various screen sizes
 - **Modern UI**: Smooth button hover transitions and shadow effects
 
-## Demo
+## Live Demo
 
-Simply open `index.html` in any modern web browser to use the calculator.
+**[Try the Calculator](https://vercel.com/mihnea-rafael-dunarintus-projects/calculator-app)** - Deployed on Vercel
+
+Or open `index.html` locally in any modern web browser.
 
 ## Project Structure
 
